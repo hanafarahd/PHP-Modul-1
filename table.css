@@ -1,0 +1,10 @@
+.table1 {
+     font-family: sans-serif;
+     color:black;
+     border-collapse:collapse;
+}
+.table1, td {
+    border:lemonchiffon;
+    padding: 8px 10px;
+    
+}
